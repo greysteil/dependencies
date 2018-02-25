@@ -1,0 +1,6 @@
+name: VoxelGamesLib-Dependencies
+version: @version@
+main: com.voxelgameslib.dependencies.Dependencies
+authors: [VoxelGamesLib]
+depend: [ProtocolLib]
+website: https://github.com/VoxelGamesLib/dependencies
